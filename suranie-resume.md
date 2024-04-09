@@ -1,7 +1,7 @@
 # Steve Suranie
 
 Technical Writer • Developer • Information Designer  
-[ssuranie@gmail.com](mailto:"ssuranie@gmail.com?subject=Suranie-Github-Resume") • [610-574-0742](href="tel:+16105740742") • 94 Greenwood Ave, Collegeville, PA 19426
+[ssuranie@gmail.com](mailto:"ssuranie@gmail.com?subject=Suranie-Github-Resume") • [610-574-0742](tel:+16105740742) • 94 Greenwood Ave, Collegeville, PA 19426
 
 ## Profile: 
 I am an experienced technical communicator, developer, and graphic designer. I bring a Systems Thinking and solutions-focused philosophy to a company’s overall technical communications strategy and overall goals. By streamlining information flow, improving knowledge base management, and helping enterprises transform into learning organization I look to implement processes that increase revenue, reduce costs, improve productivity, and assist with customer retention. 
