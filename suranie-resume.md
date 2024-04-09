@@ -117,28 +117,40 @@ Led the Macintosh application development team.
 | Asana | :star:      |
 | Zendesk | :star: :star:      |
 | Jira | :star: :star: :star: :star:     |
-| Confluence | :star: :star: :star: :star:     |
 | Zapier | :star: :star: :star:    |
 | Team Gantt | :star: :star: :star:    |
+| Managing a dispersed team | :star: :star: :star: :star:     |
+| Capacity planning | :star: :star: :star: :star:     |
+| Budgeting | :star: :star: :star:    |
 
+#### Technical Writing:
 
-<div style="padding:5px">
-	<div style="float:left width: 33.33%">test</div>
-	<div style="float:left width: 33.33%">test2</div>
-	<div style="float:left width: 33.33%">test 3</div>
-</div>
+| Skill | Competency | 
+|----------|----------|
+| Markdown | :star: :star: :star: :star:     |
+| Oxygen Author/DITA | :star: :star: :star:      |
+| Zoomin | :star: :star:       |
+| Confluence | :star: :star: :star: :star:     |
+| Postman | :star: :star: :star:      |
+| Jekyll | :star: :star: :star:      |
+| Scribe | :star: :star: :star: :star:     |
+| MS OFfice | :star: :star: :star:     |
+| Google Suite | :star: :star: :star: :star:     |
+| Sublime Text | :star: :star: :star:     |
+| readme.io | :star: :star:      |
 
+#### Development:
 
-
-
-
-
-
-
-
-
-
-
-
+| Skill | Competency | 
+|----------|----------|
+| Python | :star: :star: :star:     |
+| Swift | :star: :star: :star:     |
+| Javascript | :star: :star:     |
+| GoLang | :star:     |
+| AppleScript | :star: :star: :star: :star:    |
+| PHP | :star:     |
+| HTML | :star: :star: :star: :star:     |
+| CSS | :star: :star: :star:     |
+| XML | :star: :star: :star:     |
 
 
