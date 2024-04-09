@@ -113,44 +113,44 @@ Led the Macintosh application development team.
 
 | Skill | Competency | 
 |----------|----------|
-| Monday.com | :star: :star: :star: :star:     |
-| Asana | :star:      |
-| Zendesk | :star: :star:      |
-| Jira | :star: :star: :star: :star:     |
-| Zapier | :star: :star: :star:    |
-| Team Gantt | :star: :star: :star:    |
-| Managing a dispersed team | :star: :star: :star: :star:     |
-| Capacity planning | :star: :star: :star: :star:     |
-| Budgeting | :star: :star: :star:    |
+| Monday.com | :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:     |
+| Asana | :small_blue_diamond:      |
+| Zendesk | :small_blue_diamond: :small_blue_diamond:      |
+| Jira | :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:     |
+| Zapier | :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:    |
+| Team Gantt | :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:    |
+| Managing a dispersed team | :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:     |
+| Capacity planning | :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:     |
+| Budgeting | :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:    |
 
 #### Technical Writing:
 
 | Skill | Competency | 
 |----------|----------|
-| Markdown | :star: :star: :star: :star:     |
-| Oxygen Author/DITA | :star: :star: :star:      |
-| Zoomin | :star: :star:       |
-| Confluence | :star: :star: :star: :star:     |
-| Postman | :star: :star: :star:      |
-| Jekyll | :star: :star: :star:      |
-| Scribe | :star: :star: :star: :star:     |
-| MS OFfice | :star: :star: :star:     |
-| Google Suite | :star: :star: :star: :star:     |
-| Sublime Text | :star: :star: :star:     |
-| readme.io | :star: :star:      |
+| Markdown | :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:     |
+| Oxygen Author/DITA | :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:      |
+| Zoomin | :small_blue_diamond: :small_blue_diamond:       |
+| Confluence | :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:     |
+| Postman | :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:      |
+| Jekyll | :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:      |
+| Scribe | :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:     |
+| MS OFfice | :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:     |
+| Google Suite | :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:     |
+| Sublime Text | :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:     |
+| readme.io | :small_blue_diamond: :small_blue_diamond:      |
 
 #### Development:
 
 | Skill | Competency | 
 |----------|----------|
-| Python | :star: :star: :star:     |
-| Swift | :star: :star: :star:     |
-| Javascript | :star: :star:     |
-| GoLang | :star:     |
-| AppleScript | :star: :star: :star: :star:    |
-| PHP | :star:     |
-| HTML | :star: :star: :star: :star:     |
-| CSS | :star: :star: :star:     |
-| XML | :star: :star: :star:     |
+| Python | :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:     |
+| Swift | :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:     |
+| Javascript | :small_blue_diamond: :small_blue_diamond:     |
+| GoLang | :small_blue_diamond:     |
+| AppleScript | :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:    |
+| PHP | :small_blue_diamond:     |
+| HTML | :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:     |
+| CSS | :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:     |
+| XML | :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:     |
 
 
