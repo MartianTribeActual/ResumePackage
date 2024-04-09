@@ -113,13 +113,13 @@ Led the Macintosh application development team.
 
 | Skill | Competency | 
 |----------|----------|
-| Monday.com | :exclamation: :exclamation: :exclamation: :exclamation:     |
-| Asana | :exclamation:      |
-| Zendesk | :exclamation: :exclamation:      |
-| Jira | :exclamation: :exclamation: :exclamation: :exclamation:     |
-| Confluence | :exclamation: :exclamation: :exclamation: :exclamation:     |
-| Zapier | :exclamation: :exclamation: :exclamation:    |
-| Team Gantt | :exclamation: :exclamation: :exclamation:    |
+| Monday.com | :star: :star: :star: :star:     |
+| Asana | :star:      |
+| Zendesk | :star: :star:      |
+| Jira | :star: :star: :star: :star:     |
+| Confluence | :star: :star: :star: :star:     |
+| Zapier | :star: :star: :star:    |
+| Team Gantt | :star: :star: :star:    |
 
 
 
