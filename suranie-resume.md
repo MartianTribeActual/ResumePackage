@@ -122,6 +122,13 @@ Led the Macintosh application development team.
 | Team Gantt | :star: :star: :star:    |
 
 
+<div style="padding:5px">
+	<div style="float:left width: 33.33%">test</div>
+	<div style="float:left width: 33.33%">test2</div>
+	<div style="float:left width: 33.33%">test 3</div>
+</div>
+
+
 
 
 
