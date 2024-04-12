@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--This document was created with Codex.--><reference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="reference" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:reference.xsd:1.2">
+<title>Steve Suranie Experience</title>
+<refbody>
+<section>
+<title>Experience:</title>
+<sectiondiv>
+<p>
+<b>Kargo Global LLC</b>
+</p>
+<p>
+<b>Technical Communications Manager, 2022-2024</b>
+</p>
+<p>Built and managed a shared-resource team of technical writers, communications specialists, and learning developers: </p>
+<p>
+<ul>
+<li>Facilitated communication between product, engineering teams, and stakeholders. </li>
+<li>Generated OKR and KPI status reports for PMO and Product team.</li>
+<li>Developed training resources for various departments.</li>
+<li>Managed company knowledge base and intranet systems (Atlassian, Monday, Zendesk).</li>
+<li>Produced user guides, API documentation, and flow charts.</li>
+<li>Led incident retro reviews and authored ISI reports.</li>
+<li>Compiled engineering capacity reports from Jira and Monday.com data.</li>
+</ul>
+</p>
+</sectiondiv>
+<sectiondiv>
+<p>
+<b>WarnerMedia/Xandr (AT&amp;T)</b>
+</p>
+<p>
+<b>Technical Writer, 2019-2022</b>
+</p>
+<p>
+<ul>
+<li>Collaborated on pre-sales support with the Technical Marketing team.</li>
+<li>Created implementation and integration guides for alpha clients such as Disney and AMC.</li>
+<li>Supported Product and DevOps teams by creating and maintaining various product documentation including API documentation, platform user guides, SDK documentation, and a comprehensive data science guide.</li>
+<li>Implemented strategies to assist in achieving corporate goals, particularly in sales and support areas.</li>
+<li>Developed KPIs and measurement strategies to evaluate departmental goal attainment alignment with corporate objectives.</li>
+<li>Designed scripts and desktop applications to improve documentation workflow.</li>
+</ul>
+</p>
+</sectiondiv>
+<sectiondiv>
+<p>
+<b>Prebid </b>
+</p>
+<p>
+<b>Documentation Committee Chairman, 2018 - 2023</b>
+</p>
+<ul>
+<li>Oversaw Prebid's documentation website, knowledge base, and API documentation.</li>
+<li>Coordinated with vendors and volunteer teams to enhance site design, implement technical improvements, and update documentation.</li>
+<li>Analyzed data analytics to optimize in-app documentation for better user experience.</li>
+<li>Collaborated on specification guides for Prebid’s CTV and OTT ad-buying advancements.</li>
+</ul>
+</sectiondiv>
+<sectiondiv>
+<p>
+<b>MartianTribe</b>
+</p>
+<p>
+<b>Owner, 2016-2018</b>
+</p>
+<p>Owned and operated business providing API writing services within the financial tech industry. Clients included:</p>
+<ul>
+<li>ProntoPay: E-commerce Payment System.</li>
+<li>
+<ul>
+<li>Created a documentation strategy for publishing API guides for the user base and the flow of information from engineering to the business teams.</li>
+<li>Collaborated with stakeholders and product managers on product strategy. </li>
+<li>Created user documentation for product integration with ERP and CRM.</li>
+<li>Documented the product API. </li>
+</ul>
+</li>
+<li>Hearsay: Social Media Management and CRM Integration for Financial Advisors.</li>
+<li>
+<ul>
+<li>Wrote new product administration guides and edited and migrated existing guides from MSWord and Confluence to readme.io.</li>
+<li>Restructured the existing document repository to improve clarity. </li>
+<li>Created new content for installation guides, API documentation, analytics and data modeling.</li>
+<li>Advised stakeholders on new content strategy.</li>
+</ul>
+</li>
+<li>Yotascale: AI and Machine Learning Analytics of Cloud Service Costs</li>
+<li>
+<ul>
+<li>Developed documentation strategy for all products.</li>
+<li>Created API documentation and product guides.</li>
+</ul>
+</li>
+</ul>
+</sectiondiv>
+<sectiondiv>
+<p>
+<b>Sanofi Pasteur</b>
+</p>
+<p>
+<b>Senior iOS Developer, 2013 - 2017</b>
+</p>
+<ul>
+<li>Developed a purchasing agreement app that contributed to an increase in vaccine sales and reduction in site sales time, helping to automate the initiation of the purchase agreement  review process.</li>
+<li>Developed a group managing app that enabled regional sales managers to easily track, add, and delete entities associated with hospital systems and buying groups. </li>
+<li>Enhanced the existing company's CRM app to allow sales representatives to map their sales routes, manage customer contact information, schedule sales calls, and record their time-off activities. </li>
+<li>Designed all apps with Objective-C and Swift, using a combination of ColdFusion web services, SQL data, and Oracle databases to read and write the necessary JSON.</li>
+</ul>
+</sectiondiv>
+<sectiondiv>
+<p>
+<b>Olympus</b>
+</p>
+<p>Mobile Business Solutions Lead, 2012 - 2013 </p>
+<ul>
+<li>Led multiple projects to develop sales tools for the Olympus Medical Service Groups.</li>
+<li>Facilitated discovery meetings and developed project requirements, time estimates, budget estimates, acceptance criteria, technical documentation, and testing scripts for over 30 application projects.</li>
+<li>Created weekly progress reports for the Director and VP of Sales.</li>
+<li>Resolved any implementation or integration issues.</li>
+<li>Served as a mobile evangelist for the company, consistently resolving significant implementation and integration issues.</li>
+<li>Delivered key presentations to various business units and created white papers about the mobile team's capabilities.</li>
+<li>Created a strategy for moving all sales tools from spreadsheets within MS Excel to iPad apps.</li>
+</ul>
+</sectiondiv>
+<sectiondiv>
+<p>
+<b>Merion Publications </b>
+</p>
+<p>
+<b>Macintosh Programmer, 2000 - 2012 </b>
+</p>
+<p>Led the Macintosh application development team. Notable projects: </p>
+<ul>
+<li>Managed an offshore Engineering team to develop iPad versions of the company's print magazines.</li>
+<li>Implemented a new UI/UX process, working with the design team to create mockups while performing code reviews, coordinating with the editorial team to curate new content, and reviewing best practices with the business analysts for conducting QA.Developed a desktop application for adding and updating magazine  advertisement layouts.</li>
+<li>Developed multiple archive sites, giving various departments easy access to media assets such as images and videos and increasing productivity across the company. </li>
+<li>Engineered multiple desktop application tools, ranging from AppleScript droplets to file validations, for managing digital archive sites.</li>
+<li>Moved assets to web and file servers for storage within applications that control the database system and read all file metadata.</li>
+</ul>
+</sectiondiv>
+</section>
+</refbody>
+</reference>

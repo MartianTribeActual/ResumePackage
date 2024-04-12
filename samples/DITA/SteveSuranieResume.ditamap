@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--This document was created with Codex.--><map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="map" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:map.xsd:1.2">
+<title>Steve Suranie Resume</title>
+<topicref href="SteveSuranieResumeHeader.dita">
+<topicref href="SteveSuranieExperience.dita"/>
+<topicref href="SteveSuranieEducation.dita"/>
+<topicref href="SteveSuranieSkills.dita"/>
+</topicref>
+</map>

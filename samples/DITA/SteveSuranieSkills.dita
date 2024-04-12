@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--This document was created with Codex.--><reference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="reference" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:reference.xsd:1.2">
+<title>Steve Suranie Skills </title>
+<refbody>
+<section>
+<sectiondiv>
+<p>
+<b>Technical Communications</b>
+</p>
+<ul>
+<li>
+<b>Managing information flow</b> from Product and Engineering horizontally across the enterprise and vertically to senior leadership and the executive staff.</li>
+<li>
+<b>Applying Systems Thinking</b> to create essential corporate training on internal products, tools, and services.</li>
+<li>
+<b>Providing Information Synergy</b> on key topics to ensure all decision makers are working from the same base of knowledge. </li>
+<li>
+<b>Maintaining the corporate knowledge base</b> to ensure all information is current  and relevant</li>
+<li>
+<b>Providing support and insight for strategic initiatives</b> such as mergers and acquisitions and ISO compliance. </li>
+</ul>
+</sectiondiv>
+<sectiondiv>
+<p>
+<b>Project and Team Management:</b>
+</p>
+<table>
+<tgroup cols="2">
+<thead>
+<row>
+<entry>Skill</entry>
+<entry>Level</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Atlassian Suite</entry>
+<entry>Expert</entry>
+</row>
+<row>
+<entry>Monday.com</entry>
+<entry>Experienced</entry>
+</row>
+<row>
+<entry>Asana</entry>
+<entry>Familiar</entry>
+</row>
+<row>
+<entry>TeamGantt</entry>
+<entry>Experienced</entry>
+</row>
+<row>
+<entry>Zendesk</entry>
+<entry>Familiar</entry>
+</row>
+<row>
+<entry>Zapier</entry>
+<entry>Experienced</entry>
+</row>
+<row>
+<entry>Knowledge Management</entry>
+<entry>Experienced</entry>
+</row>
+<row>
+<entry>Team Management</entry>
+<entry>Experienced</entry>
+</row>
+<row>
+<entry>Capacity and Budget Planning</entry>
+<entry>Experienced</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</sectiondiv>
+<sectiondiv>
+<p>
+<b>Technical Writing:</b>
+</p>
+<table>
+<tgroup cols="2">
+<thead>
+<row>
+<entry>Skill</entry>
+<entry>Level</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Markdown</entry>
+<entry>Experienced</entry>
+</row>
+<row>
+<entry>DITA</entry>
+<entry>Experienced</entry>
+</row>
+<row>
+<entry>Oxygen Author</entry>
+<entry>Experienced</entry>
+</row>
+<row>
+<entry>Confluence</entry>
+<entry>Experienced</entry>
+</row>
+<row>
+<entry>Jekyll</entry>
+<entry>Experienced</entry>
+</row>
+<row>
+<entry>Sharepoint</entry>
+<entry>Familiar</entry>
+</row>
+<row>
+<entry>Postman</entry>
+<entry>Experienced</entry>
+</row>
+<row>
+<entry>Sublime Text</entry>
+<entry>Experienced</entry>
+</row>
+<row>
+<entry>Swagger</entry>
+<entry>Familiar</entry>
+</row>
+<row>
+<entry>Codex</entry>
+<entry>Experienced</entry>
+</row>
+<row>
+<entry>readme.io</entry>
+<entry>Familiar</entry>
+</row>
+<row>
+<entry>Scribe</entry>
+<entry>Experienced</entry>
+</row>
+<row>
+<entry>Snagit</entry>
+<entry>Experienced</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</sectiondiv>
+<sectiondiv>
+<p>
+<b>Programming: </b>
+</p>
+<table>
+<tgroup cols="2">
+<thead>
+<row>
+<entry>Skill</entry>
+<entry>Level</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Python</entry>
+<entry>Experienced</entry>
+</row>
+<row>
+<entry>Swift (iOS)</entry>
+<entry>Experienced</entry>
+</row>
+<row>
+<entry>PHP</entry>
+<entry>Familiar</entry>
+</row>
+<row>
+<entry>Javascript</entry>
+<entry>Familiar</entry>
+</row>
+<row>
+<entry>Golang</entry>
+<entry>Novice</entry>
+</row>
+<row>
+<entry>AppleScript</entry>
+<entry>Experienced</entry>
+</row>
+<row>
+<entry>HTML</entry>
+<entry>Experienced</entry>
+</row>
+<row>
+<entry>XML</entry>
+<entry>Experienced</entry>
+</row>
+<row>
+<entry>CSS</entry>
+<entry>Experienced</entry>
+</row>
+<row>
+<entry>SQL</entry>
+<entry>Familiar</entry>
+</row>
+<row>
+<entry>GraphQL</entry>
+<entry>Familiar</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</sectiondiv>
+</section>
+</refbody>
+</reference>
